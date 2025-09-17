@@ -1,6 +1,6 @@
 # ETA-ETL — Taxi Trip ETL & Analytics (PySpark notebook)
 
-### Note: public Kaggle dataset used in this project `yellow_tripdata_2015-01.csv`, to be placed in data folder after dowmloading from: 
+### Note: public Kaggle dataset used in this project `yellow_tripdata_2015-01.csv`, to be placed in data folder after downloading from: 
 
 https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?resource=download. 
 
